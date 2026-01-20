@@ -24,6 +24,13 @@ The goal is to efficiently encode motion information, reconstruct it from compre
 - joblib  
 
 
+
+## 📁 Project Files
+
+| File Name                            | Description                |
+|-------------------------------------|----------------------------|
+| `BBB.mp4`              | Input video      |
+| `OF_CS.ipynb`             | Main file    |
 ## Acknowledgements
 Video sample from [Big Buck Bunny](https://test-videos.co.uk/bigbuckbunny/mp4-h264).
 
